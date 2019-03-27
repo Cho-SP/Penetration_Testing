@@ -1,0 +1,59 @@
+body{
+    margin:0 0 0 0;
+    padding:0 0 0 0;
+}
+.title{
+    font-size:50px;
+    font-weight:bold;
+    display:block;
+    background-color:#000000;
+    color:#ffffff;
+}
+.atitle:link{
+    text-decoration:none;
+    color:#ffffff;
+}
+.atitle:visited{
+    text-decoration:none;
+    color:#ffffff;
+}
+.atitle:active{
+    text-decoration:none;
+    color:#ffffff;
+}
+.atitle:hover{
+    text-decoration:none;
+    color:#ffffff;
+}
+.logout{
+    background-color:#ffffff;
+    border:3px solid #ff0505;
+    color:#ff0505;
+    font-weight:bold;
+}
+.write{
+    background-color:#ffffff;
+    border:3px solid #007434;
+    color:#007434;
+    font-weight:bold;
+}
+table{
+    font-weight:bold;
+    width:750px;
+}
+.tname{
+    width:150px;
+}
+.ttitle{
+    width:400px;
+}
+.join{
+    text-decoration:none;
+    color:#000000;
+}
+.tdate{
+    width:200px;
+}
+button{
+    cursor:pointer;
+}
